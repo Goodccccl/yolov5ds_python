@@ -1,0 +1,9 @@
+D:\Artificial neural Network\yolov5ds-main\yolov5ds-main\yolov5\det/images/21_3.jpg
+D:\Artificial neural Network\yolov5ds-main\yolov5ds-main\yolov5\det/images/21_5.jpg
+D:\Artificial neural Network\yolov5ds-main\yolov5ds-main\yolov5\det/images/22_6.jpg
+D:\Artificial neural Network\yolov5ds-main\yolov5ds-main\yolov5\det/images/22_9.jpg
+D:\Artificial neural Network\yolov5ds-main\yolov5ds-main\yolov5\det/images/31_10.jpg
+D:\Artificial neural Network\yolov5ds-main\yolov5ds-main\yolov5\det/images/32_3.jpg
+D:\Artificial neural Network\yolov5ds-main\yolov5ds-main\yolov5\det/images/41_1.jpg
+D:\Artificial neural Network\yolov5ds-main\yolov5ds-main\yolov5\det/images/41_5.jpg
+D:\Artificial neural Network\yolov5ds-main\yolov5ds-main\yolov5\det/images/image8_6.jpg
